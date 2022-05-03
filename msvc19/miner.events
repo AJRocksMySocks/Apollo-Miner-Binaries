@@ -96,3 +96,28 @@
 2022-05-03 14:57:08 ::: PWC_RESTART ::: brd=0, pwc=0/3
 2022-05-03 14:57:39 ::: DIFF_CHANGE ::: Difficulty changed: 8192 => 1638
 2022-05-03 14:57:39 ::: POOL_CLEAN_JOB ::: jobIdCounter = 102, JOB: jobName: 1b847877de, prevHash: 8824b92b0db6b28b6b853201f0e05c91e55022ab0007b5ab0000000000000000, nTime: 0x62717b24, cleanJobs: 1
+2022-05-03 15:03:21 ::: MINER_START ::: Enjoy your mining!
+2022-05-03 15:03:21 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:03:26 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:03:31 ::: POOL_ERROR ::: Drop off 64 shares
+2022-05-03 15:03:31 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:03:36 ::: POOL_ERROR ::: Drop off 1 shares
+2022-05-03 15:03:36 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:03:41 ::: POOL_ERROR ::: Drop off 2 shares
+2022-05-03 15:03:41 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:03:46 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:03:51 ::: POOL_ERROR ::: Drop off 1 shares
+2022-05-03 15:03:51 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:03:56 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:04:01 ::: POOL_ERROR ::: Drop off 2 shares
+2022-05-03 15:04:01 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:04:06 ::: POOL_ERROR ::: Drop off 2 shares
+2022-05-03 15:04:06 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:04:11 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:04:16 ::: POOL_ERROR ::: Drop off 2 shares
+2022-05-03 15:04:16 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:04:21 ::: POOL_ERROR ::: Drop off 2 shares
+2022-05-03 15:04:21 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:04:27 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:04:32 ::: POOL_ERROR ::: Drop off 2 shares
+2022-05-03 15:04:32 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
