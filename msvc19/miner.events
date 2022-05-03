@@ -189,3 +189,18 @@
 2022-05-03 15:09:16 ::: POOL_CLEAN_JOB ::: jobIdCounter = 108, JOB: jobName: 1b84e2ae59, prevHash: 3871298670914240099300ae0e259155ad4f6b5a0002107c0000000000000000, nTime: 0x62717ddc, cleanJobs: 1
 2022-05-03 15:12:09 ::: DIFF_CHANGE ::: Difficulty changed: 8192 => 3967
 2022-05-03 15:12:09 ::: POOL_CLEAN_JOB ::: jobIdCounter = 115, JOB: jobName: 1b84fd21e1, prevHash: 3871298670914240099300ae0e259155ad4f6b5a0002107c0000000000000000, nTime: 0x62717e89, cleanJobs: 1
+2022-05-03 15:18:24 ::: MINER_START ::: Enjoy your mining!
+2022-05-03 15:18:24 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:18:29 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:18:34 ::: POOL_ERROR ::: Drop off 58 shares
+2022-05-03 15:18:34 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:18:39 ::: POOL_ERROR ::: Drop off 1 shares
+2022-05-03 15:18:39 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:18:44 ::: POOL_ERROR ::: Drop off 1 shares
+2022-05-03 15:18:44 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:18:49 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:18:54 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:18:59 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:19:04 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:19:09 ::: POOL_ERROR ::: Drop off 3 shares
+2022-05-03 15:19:09 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
