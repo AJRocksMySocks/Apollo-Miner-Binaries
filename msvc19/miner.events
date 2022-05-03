@@ -75,3 +75,24 @@
 2022-05-03 14:52:28 ::: PWC_RESTART ::: brd=0, pwc=0/2
 2022-05-03 14:52:29 ::: PWC_RESTART ::: brd=0, pwc=0/3
 2022-05-03 14:52:29 ::: PWC_RESTART ::: brd=0, pwc=0/1
+2022-05-03 14:56:56 ::: MINER_START ::: Enjoy your mining!
+2022-05-03 14:56:56 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2022-05-03 14:56:56 ::: POOL_CLEAN_JOB ::: jobIdCounter = 100, JOB: jobName: 1b846f4f8e, prevHash: 8824b92b0db6b28b6b853201f0e05c91e55022ab0007b5ab0000000000000000, nTime: 0x62717af9, cleanJobs: 1
+2022-05-03 14:56:56 ::: POOL_INFO ::: Pool in-service
+2022-05-03 14:57:06 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 103, extraNonce2: f8010000, nTime: 62717906, nonce: bb8c120c, diff: 9149 (0x000023bd)
+2022-05-03 14:57:06 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 104, extraNonce2: 87000000, nTime: 6271790a, nonce: 5836730b, diff: 11101 (0x00002b5d)
+2022-05-03 14:57:06 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 106, extraNonce2: 94000000, nTime: 62717944, nonce: 8e91d360, diff: 356192 (0x00056f60)
+2022-05-03 14:57:06 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 106, extraNonce2: b3000000, nTime: 62717962, nonce: e7ddf321, diff: 8773 (0x00002245)
+2022-05-03 14:57:06 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 106, extraNonce2: 3e000000, nTime: 62717988, nonce: 417cf205, diff: 46225 (0x0000b491)
+2022-05-03 14:57:06 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 106, extraNonce2: 67000000, nTime: 62717997, nonce: 53729d24, diff: 360739 (0x00058123)
+2022-05-03 14:57:06 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 107, extraNonce2: c7010000, nTime: 627179ff, nonce: 41bbcbea, diff: 11569 (0x00002d31)
+2022-05-03 14:57:06 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 107, extraNonce2: f6010000, nTime: 62717a0c, nonce: 10b06028, diff: 20410 (0x00004fba)
+2022-05-03 14:57:06 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 107, extraNonce2: 60010000, nTime: 62717a29, nonce: 7899eab2, diff: 10373 (0x00002885)
+2022-05-03 14:57:06 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 107, extraNonce2: fd010000, nTime: 62717a33, nonce: f7d8bbc0, diff: 9851 (0x0000267b)
+2022-05-03 14:57:06 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 107, extraNonce2: 17020000, nTime: 62717a73, nonce: 3b260936, diff: 32952 (0x000080b8)
+2022-05-03 14:57:07 ::: PWC_RESTART ::: brd=0, pwc=0/0
+2022-05-03 14:57:08 ::: PWC_RESTART ::: brd=0, pwc=0/1
+2022-05-03 14:57:08 ::: PWC_RESTART ::: brd=0, pwc=0/2
+2022-05-03 14:57:08 ::: PWC_RESTART ::: brd=0, pwc=0/3
+2022-05-03 14:57:39 ::: DIFF_CHANGE ::: Difficulty changed: 8192 => 1638
+2022-05-03 14:57:39 ::: POOL_CLEAN_JOB ::: jobIdCounter = 102, JOB: jobName: 1b847877de, prevHash: 8824b92b0db6b28b6b853201f0e05c91e55022ab0007b5ab0000000000000000, nTime: 0x62717b24, cleanJobs: 1
