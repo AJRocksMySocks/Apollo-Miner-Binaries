@@ -1,0 +1,25 @@
+2022-05-03 14:38:36 ::: MINER_START ::: Enjoy your mining!
+2022-05-03 14:38:36 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2022-05-03 14:38:36 ::: POOL_CLEAN_JOB ::: jobIdCounter = 100, JOB: jobName: 1b83c5ec4a, prevHash: d26d042c4c89adba81936470aea1685be2ad7dd9000370120000000000000000, nTime: 0x627176ad, cleanJobs: 1
+2022-05-03 14:38:36 ::: POOL_ERROR ::: SessionSetupException: Pool authorization failed, verify login/password.
+2022-05-03 14:38:36 ::: RECONNECTION ::: 
+2022-05-03 14:38:41 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2022-05-03 14:38:41 ::: POOL_CLEAN_JOB ::: jobIdCounter = 101, JOB: jobName: 1b83c76d6f, prevHash: d26d042c4c89adba81936470aea1685be2ad7dd9000370120000000000000000, nTime: 0x627176b2, cleanJobs: 1
+2022-05-03 14:38:41 ::: POOL_ERROR ::: SessionSetupException: Pool authorization failed, verify login/password.
+2022-05-03 14:38:41 ::: RECONNECTION ::: 
+2022-05-03 14:38:46 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2022-05-03 14:38:46 ::: POOL_CLEAN_JOB ::: jobIdCounter = 102, JOB: jobName: 1b83cb6f20, prevHash: d26d042c4c89adba81936470aea1685be2ad7dd9000370120000000000000000, nTime: 0x627176b7, cleanJobs: 1
+2022-05-03 14:38:46 ::: POOL_ERROR ::: SessionSetupException: Pool authorization failed, verify login/password.
+2022-05-03 14:38:46 ::: RECONNECTION ::: 
+2022-05-03 14:38:51 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2022-05-03 14:38:51 ::: POOL_CLEAN_JOB ::: jobIdCounter = 103, JOB: jobName: 1b83cc18e4, prevHash: d26d042c4c89adba81936470aea1685be2ad7dd9000370120000000000000000, nTime: 0x627176bc, cleanJobs: 1
+2022-05-03 14:38:51 ::: POOL_ERROR ::: SessionSetupException: Pool authorization failed, verify login/password.
+2022-05-03 14:38:51 ::: RECONNECTION ::: 
+2022-05-03 14:38:56 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2022-05-03 14:38:56 ::: POOL_CLEAN_JOB ::: jobIdCounter = 104, JOB: jobName: 1b83cbf2c3, prevHash: d26d042c4c89adba81936470aea1685be2ad7dd9000370120000000000000000, nTime: 0x627176c1, cleanJobs: 1
+2022-05-03 14:38:56 ::: POOL_ERROR ::: SessionSetupException: Pool authorization failed, verify login/password.
+2022-05-03 14:38:56 ::: RECONNECTION ::: 
+2022-05-03 14:39:10 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2022-05-03 14:39:10 ::: POOL_CLEAN_JOB ::: jobIdCounter = 105, JOB: jobName: 1b83cddb88, prevHash: d26d042c4c89adba81936470aea1685be2ad7dd9000370120000000000000000, nTime: 0x627176c7, cleanJobs: 1
+2022-05-03 14:39:10 ::: POOL_ERROR ::: SessionSetupException: Pool authorization failed, verify login/password.
+2022-05-03 14:39:10 ::: RECONNECTION ::: 
