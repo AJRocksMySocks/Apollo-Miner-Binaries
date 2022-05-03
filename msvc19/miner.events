@@ -23,3 +23,20 @@
 2022-05-03 14:39:10 ::: POOL_CLEAN_JOB ::: jobIdCounter = 105, JOB: jobName: 1b83cddb88, prevHash: d26d042c4c89adba81936470aea1685be2ad7dd9000370120000000000000000, nTime: 0x627176c7, cleanJobs: 1
 2022-05-03 14:39:10 ::: POOL_ERROR ::: SessionSetupException: Pool authorization failed, verify login/password.
 2022-05-03 14:39:10 ::: RECONNECTION ::: 
+2022-05-03 14:42:53 ::: MINER_START ::: Enjoy your mining!
+2022-05-03 14:42:53 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2022-05-03 14:42:53 ::: POOL_CLEAN_JOB ::: jobIdCounter = 100, JOB: jobName: 1b83ef63fc, prevHash: d26d042c4c89adba81936470aea1685be2ad7dd9000370120000000000000000, nTime: 0x627177ae, cleanJobs: 1
+2022-05-03 14:42:53 ::: POOL_ERROR ::: SessionSetupException: Pool authorization failed, verify login/password.
+2022-05-03 14:42:53 ::: RECONNECTION ::: 
+2022-05-03 14:42:58 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2022-05-03 14:42:58 ::: POOL_CLEAN_JOB ::: jobIdCounter = 101, JOB: jobName: 1b83eda793, prevHash: d26d042c4c89adba81936470aea1685be2ad7dd9000370120000000000000000, nTime: 0x627177b3, cleanJobs: 1
+2022-05-03 14:42:58 ::: POOL_ERROR ::: SessionSetupException: Pool authorization failed, verify login/password.
+2022-05-03 14:42:58 ::: RECONNECTION ::: 
+2022-05-03 14:43:03 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2022-05-03 14:43:03 ::: POOL_CLEAN_JOB ::: jobIdCounter = 102, JOB: jobName: 1b83f092cb, prevHash: d26d042c4c89adba81936470aea1685be2ad7dd9000370120000000000000000, nTime: 0x627177b8, cleanJobs: 1
+2022-05-03 14:43:03 ::: POOL_ERROR ::: SessionSetupException: Pool authorization failed, verify login/password.
+2022-05-03 14:43:03 ::: RECONNECTION ::: 
+2022-05-03 14:43:10 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2022-05-03 14:43:10 ::: POOL_CLEAN_JOB ::: jobIdCounter = 103, JOB: jobName: 1b83f235e3, prevHash: d26d042c4c89adba81936470aea1685be2ad7dd9000370120000000000000000, nTime: 0x627177bf, cleanJobs: 1
+2022-05-03 14:43:10 ::: POOL_ERROR ::: SessionSetupException: Pool authorization failed, verify login/password.
+2022-05-03 14:43:10 ::: RECONNECTION ::: 
