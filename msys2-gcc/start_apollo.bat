@@ -58,6 +58,6 @@
 :: 4. Save the file and double click it to start the miner
 
 pushd "%~dp0"
-.\apollo-miner.exe -host us-east.stratum.slushpool.com -port 3333 -user jstefanop.x -pswd x -comport COM3 -brd_ocp 48  -osc 30 -ao_mode 1
+.\apollo-miner.exe -host us-east.stratum.slushpool.com -port 2233 -user FluffyNinjaBTC.GettingIT1 -pswd Blueunicorn8008 -comport COM3 -brd_ocp 75  -osc 50 -ao_mode 1
 pause
 

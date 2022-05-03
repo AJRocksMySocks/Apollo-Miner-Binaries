@@ -204,3 +204,68 @@
 2022-05-03 15:19:04 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
 2022-05-03 15:19:09 ::: POOL_ERROR ::: Drop off 3 shares
 2022-05-03 15:19:09 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 15:20:45 ::: MINER_START ::: Enjoy your mining!
+2022-05-03 15:20:46 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2022-05-03 15:20:46 ::: POOL_CLEAN_JOB ::: jobIdCounter = 100, JOB: jobName: 1b8549349b, prevHash: 8d0d513814aaf14a51348d980b2f0f39baf70d46000144430000000000000000, nTime: 0x6271808f, cleanJobs: 1
+2022-05-03 15:20:46 ::: POOL_INFO ::: Pool in-service
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 121, extraNonce2: cd000000, nTime: 62717f3b, nonce: fc6602d9, diff: 6838 (0x00001ab6)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 121, extraNonce2: c8010000, nTime: 62717f3b, nonce: e2f28aa4, diff: 8788 (0x00002254)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 122, extraNonce2: b1030000, nTime: 62717f46, nonce: 4ec6fd9a, diff: 4555 (0x000011cb)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 122, extraNonce2: 7b030000, nTime: 62717f4e, nonce: 1db28d63, diff: 14757 (0x000039a5)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 122, extraNonce2: 04030000, nTime: 62717f54, nonce: 811ac1f7, diff: 12244 (0x00002fd4)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 122, extraNonce2: 97000000, nTime: 62717f56, nonce: 62308291, diff: 10135 (0x00002797)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 123, extraNonce2: 68010000, nTime: 62717f61, nonce: 143ef5ff, diff: 7873 (0x00001ec1)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 123, extraNonce2: 92010000, nTime: 62717f64, nonce: 459fe089, diff: 5443 (0x00001543)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 123, extraNonce2: 21020000, nTime: 62717f6a, nonce: e7eeebbd, diff: 4573 (0x000011dd)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 123, extraNonce2: 41010000, nTime: 62717f6f, nonce: ee8e717d, diff: 4968 (0x00001368)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 123, extraNonce2: 8b000000, nTime: 62717f6c, nonce: 75206853, diff: 11601 (0x00002d51)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 123, extraNonce2: ab030000, nTime: 62717f7b, nonce: 50c1baef, diff: 4849 (0x000012f1)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 39030000, nTime: 62717f83, nonce: 1175cafc, diff: 11308 (0x00002c2c)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: cf030000, nTime: 62717f91, nonce: f348c323, diff: 6290 (0x00001892)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: db020000, nTime: 62717f94, nonce: 26eb47b5, diff: 4201 (0x00001069)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 41030000, nTime: 62717f96, nonce: 55cacf6f, diff: 6330 (0x000018ba)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 5b010000, nTime: 62717f99, nonce: f95d3832, diff: 6879 (0x00001adf)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 1f000000, nTime: 62717f9d, nonce: 4c5b8e5f, diff: 6643 (0x000019f3)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: af010000, nTime: 62717fa9, nonce: fd4f6292, diff: 97457 (0x00017cb1)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: c1000000, nTime: 62717fb0, nonce: dac85aa3, diff: 12159 (0x00002f7f)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: c1010000, nTime: 62717fb2, nonce: 0bdf5492, diff: 6473 (0x00001949)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: d1020000, nTime: 62717fb3, nonce: 11c7f749, diff: 9787 (0x0000263b)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: aa030000, nTime: 62717fc0, nonce: 48961b5e, diff: 7544 (0x00001d78)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 39020000, nTime: 62717fcd, nonce: ff1bca78, diff: 5089 (0x000013e1)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 3e010000, nTime: 62717fcd, nonce: cd50c28c, diff: 4281 (0x000010b9)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 13010000, nTime: 62717fda, nonce: 6caab649, diff: 8099 (0x00001fa3)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: b2000000, nTime: 62717fe5, nonce: 32471d31, diff: 8529 (0x00002151)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 55010000, nTime: 62717ff3, nonce: f7750bb1, diff: 5879 (0x000016f7)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: b1030000, nTime: 62717ff5, nonce: d46ddba6, diff: 7984 (0x00001f30)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 09030000, nTime: 62717ffa, nonce: a7998c95, diff: 4041 (0x00000fc9)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 84020000, nTime: 62717ffc, nonce: 1b86ebed, diff: 10832 (0x00002a50)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 4c000000, nTime: 62717ffe, nonce: fe6ec13c, diff: 5419 (0x0000152b)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: a1030000, nTime: 6271800a, nonce: 711fa700, diff: 8313 (0x00002079)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 05020000, nTime: 62718011, nonce: 584f7c18, diff: 9841 (0x00002671)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: e0000000, nTime: 6271800f, nonce: abfc9180, diff: 10223 (0x000027ef)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 12000000, nTime: 62718013, nonce: b3150c68, diff: 4374 (0x00001116)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: a8000000, nTime: 6271802e, nonce: da896414, diff: 5659 (0x0000161b)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 5c010000, nTime: 62718036, nonce: 8ea4529e, diff: 4320 (0x000010e0)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 68010000, nTime: 62718037, nonce: 86a942f8, diff: 19964 (0x00004dfc)
+2022-05-03 15:20:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 121, extraNonce2: c2030000, nTime: 62717f34, nonce: 8c87a475, diff: 4370 (0x00001112)
+2022-05-03 15:20:56 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 8f010000, nTime: 62718086, nonce: 0d6916f7, diff: 7439 (0x00001d0f)
+2022-05-03 15:20:56 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 9d030000, nTime: 62718085, nonce: 5df983de, diff: 29155 (0x000071e3)
+2022-05-03 15:20:56 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 62030000, nTime: 6271808d, nonce: 22db2e5e, diff: 26809 (0x000068b9)
+2022-05-03 15:20:56 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: 75030000, nTime: 62718098, nonce: 4b058f8d, diff: 6063 (0x000017af)
+2022-05-03 15:20:56 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 124, extraNonce2: ec020000, nTime: 6271806f, nonce: d97cf83d, diff: 4365 (0x0000110d)
+2022-05-03 15:21:57 ::: DIFF_CHANGE ::: Difficulty changed: 8192 => 2134
+2022-05-03 15:21:57 ::: POOL_CLEAN_JOB ::: jobIdCounter = 103, JOB: jobName: 1b8556f9be, prevHash: 8d0d513814aaf14a51348d980b2f0f39baf70d46000144430000000000000000, nTime: 0x627180d6, cleanJobs: 1
+2022-05-03 15:24:09 ::: POOL_CLEAN_JOB ::: jobIdCounter = 108, JOB: jobName: 1b856b0ae7, prevHash: 7fe5c0bcfb0bcadd76f169ff14b189e363b7d19500025cc20000000000000000, nTime: 0x6271815a, cleanJobs: 1
+2022-05-03 15:28:01 ::: POOL_CLEAN_JOB ::: jobIdCounter = 118, JOB: jobName: 1b858e7dc3, prevHash: 3f85604ae3f5ec86297a013dd46176a364ac08ab00027a220000000000000000, nTime: 0x62718242, cleanJobs: 1
+2022-05-03 15:33:26 ::: POOL_CLEAN_JOB ::: jobIdCounter = 130, JOB: jobName: 1b85bff675, prevHash: de3e22fca3405317db9e43d36a7d55d3f45eac560001bc3a0000000000000000, nTime: 0x62718386, cleanJobs: 1
+2022-05-03 15:41:05 ::: POOL_CLEAN_JOB ::: jobIdCounter = 148, JOB: jobName: 1b860607e0, prevHash: dd5277731f85e3af8a32552cd0b052f55fe97402000263df0000000000000000, nTime: 0x62718551, cleanJobs: 1
+2022-05-03 15:51:06 ::: POOL_CLEAN_JOB ::: jobIdCounter = 170, JOB: jobName: 1b8661b12f, prevHash: 83c75812e1f32aa0f7e8ea4b69ad3fd367cbc8190002e2ba0000000000000000, nTime: 0x627187aa, cleanJobs: 1
+2022-05-03 15:59:29 ::: POOL_CLEAN_JOB ::: jobIdCounter = 189, JOB: jobName: 1b86ae6c05, prevHash: 349d65642b814557e741d11803282d3df05f113b0003a39e0000000000000000, nTime: 0x627189a1, cleanJobs: 1
+2022-05-03 15:59:29 ::: POOL_SHARE_DISCARDED ::: POOL response: {"id":520,"result":null,"error":[-4,"Stale share",null]}, REQ: id=520, age=1, SHARE: jobId: 188, extraNonce2: 4c010000, nTime: 627189a5, nonce: 278f0334, diff: 93409 (0x00016ce1), JOB: N/A
+2022-05-03 16:18:01 ::: POOL_CLEAN_JOB ::: jobIdCounter = 228, JOB: jobName: 1b87581878, prevHash: 727361ddd4d384e426144e4bb7471e1dee425ba2000718d20000000000000000, nTime: 0x62718df9, cleanJobs: 1
+2022-05-03 16:20:46 ::: MINER_ALIVE ::: Enjoy your mining!
+2022-05-03 16:29:41 ::: POOL_CLEAN_JOB ::: jobIdCounter = 253, JOB: jobName: 1b87c2fc64, prevHash: 0db75e3817d9c49268751a3a5a016add42dc16790007a1790000000000000000, nTime: 0x627190b6, cleanJobs: 1
+2022-05-03 16:29:41 ::: POOL_SHARE_DISCARDED ::: POOL response: {"id":899,"result":null,"error":[-4,"Stale share",null]}, REQ: id=899, age=0, SHARE: jobId: 253, extraNonce2: c3030000, nTime: 627190b8, nonce: f256b52b, diff: 3112 (0x00000c28), JOB: N/A
+2022-05-03 16:29:41 ::: POOL_SHARE_DISCARDED ::: POOL response: {"id":900,"result":null,"error":[-4,"Stale share",null]}, REQ: id=900, age=0, SHARE: jobId: 253, extraNonce2: 6f020000, nTime: 627190b5, nonce: e48d6882, diff: 5793 (0x000016a1), JOB: N/A
+2022-05-03 16:29:54 ::: POOL_CLEAN_JOB ::: jobIdCounter = 255, JOB: jobName: 1b87c4fd21, prevHash: aeca8dbd983b35decd06bc666ce5df22def852da00070abe0000000000000000, nTime: 0x627190c3, cleanJobs: 1
+2022-05-03 16:29:54 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 255, extraNonce2: f6010000, nTime: 627190c4, nonce: 959a2356, diff: 9330 (0x00002472)

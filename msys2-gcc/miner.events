@@ -1,0 +1,97 @@
+2022-05-03 16:32:31 ::: MINER_START ::: Enjoy your mining!
+2022-05-03 16:32:31 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2022-05-03 16:32:31 ::: POOL_CLEAN_JOB ::: jobIdCounter = 100, JOB: jobName: 1b87dae80a, prevHash: aeca8dbd983b35decd06bc666ce5df22def852da00070abe0000000000000000, nTime: 0x62719160, cleanJobs: 1
+2022-05-03 16:32:31 ::: POOL_INFO ::: Pool in-service
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 250, extraNonce2: 8b010000, nTime: 62719057, nonce: 1c4d9149, diff: 2188 (0x0000088c)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 250, extraNonce2: aa010000, nTime: 62719059, nonce: b7bf2301, diff: 3255 (0x00000cb7)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 250, extraNonce2: 5d020000, nTime: 62719056, nonce: 4196000d, diff: 5060 (0x000013c4)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 250, extraNonce2: e2020000, nTime: 6271905d, nonce: 0f8830cb, diff: 4576 (0x000011e0)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 250, extraNonce2: b7010000, nTime: 62719063, nonce: 79172467, diff: 3636 (0x00000e34)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 250, extraNonce2: f4030000, nTime: 6271906f, nonce: 527bbc93, diff: 7906 (0x00001ee2)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 251, extraNonce2: 41030000, nTime: 62719070, nonce: 8d0c016b, diff: 6036 (0x00001794)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 251, extraNonce2: 8f020000, nTime: 6271907a, nonce: a4c95200, diff: 2894 (0x00000b4e)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 251, extraNonce2: 80000000, nTime: 6271907a, nonce: d71bbf71, diff: 8863 (0x0000229f)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 251, extraNonce2: 9a020000, nTime: 6271907a, nonce: 0c24ee43, diff: 178555 (0x0002b97b)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 251, extraNonce2: 8c030000, nTime: 62719080, nonce: 95a6672f, diff: 58549 (0x0000e4b5)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 251, extraNonce2: 38000000, nTime: 6271907f, nonce: c69019d5, diff: 10535 (0x00002927)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 251, extraNonce2: c7010000, nTime: 62719086, nonce: 14c84a0a, diff: 2558 (0x000009fe)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 251, extraNonce2: 62010000, nTime: 62719089, nonce: 25ad20fe, diff: 2987 (0x00000bab)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 252, extraNonce2: 03000000, nTime: 62719094, nonce: da6c7b8d, diff: 13497 (0x000034b9)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 252, extraNonce2: 86030000, nTime: 62719097, nonce: 523a514e, diff: 6047 (0x0000179f)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 252, extraNonce2: 84000000, nTime: 6271909a, nonce: b7b57c4f, diff: 3813 (0x00000ee5)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 252, extraNonce2: 1a020000, nTime: 6271909d, nonce: e9caadb9, diff: 6900 (0x00001af4)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 252, extraNonce2: b8030000, nTime: 627190a2, nonce: 2dff54b5, diff: 2300 (0x000008fc)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 252, extraNonce2: 4d010000, nTime: 627190ab, nonce: ed4ead97, diff: 6481 (0x00001951)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 253, extraNonce2: c3030000, nTime: 627190b8, nonce: f256b52b, diff: 3112 (0x00000c28)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 253, extraNonce2: 6f020000, nTime: 627190b5, nonce: e48d6882, diff: 5793 (0x000016a1)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 255, extraNonce2: ef000000, nTime: 627190ba, nonce: 42a396e4, diff: 76635 (0x00012b5b)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 255, extraNonce2: 70020000, nTime: 627190c3, nonce: 59c2a5e6, diff: 2447 (0x0000098f)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 255, extraNonce2: e4030000, nTime: 627190c4, nonce: f123b66a, diff: 2677 (0x00000a75)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 255, extraNonce2: f6010000, nTime: 627190c4, nonce: 959a2356, diff: 9330 (0x00002472)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 246, extraNonce2: a6030000, nTime: 62718ff8, nonce: 258ea384, diff: 6481 (0x00001951)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 246, extraNonce2: 92010000, nTime: 62718ff9, nonce: f289c59f, diff: 6317 (0x000018ad)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 247, extraNonce2: a5000000, nTime: 62718fff, nonce: 693d8af2, diff: 2182 (0x00000886)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 247, extraNonce2: d8000000, nTime: 62719001, nonce: f9cd3f18, diff: 13434 (0x0000347a)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 247, extraNonce2: 37010000, nTime: 62719015, nonce: 2aa4d022, diff: 3979 (0x00000f8b)
+2022-05-03 16:32:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 248, extraNonce2: f2030000, nTime: 62719017, nonce: fd6fe6f4, diff: 258328 (0x0003f118)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 248, extraNonce2: 34010000, nTime: 6271901e, nonce: 65e9f346, diff: 2661 (0x00000a65)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 248, extraNonce2: 93020000, nTime: 6271902f, nonce: 5d572eea, diff: 3138 (0x00000c42)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 248, extraNonce2: 30030000, nTime: 62719034, nonce: b9ab6ca4, diff: 3510 (0x00000db6)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 249, extraNonce2: 68030000, nTime: 62719034, nonce: fa6cc16d, diff: 2630 (0x00000a46)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 249, extraNonce2: ae000000, nTime: 6271903a, nonce: f0a80406, diff: 6839 (0x00001ab7)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 249, extraNonce2: d7020000, nTime: 6271903d, nonce: b4a0852d, diff: 2679 (0x00000a77)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 249, extraNonce2: 69010000, nTime: 6271903e, nonce: 65591d44, diff: 46006 (0x0000b3b6)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 249, extraNonce2: a5000000, nTime: 62719048, nonce: 9799250c, diff: 9419 (0x000024cb)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 9b010000, nTime: 627190f7, nonce: 3951926c, diff: 2208 (0x000008a0)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: c4000000, nTime: 627190fd, nonce: 07c958b8, diff: 3170 (0x00000c62)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 7e030000, nTime: 62719101, nonce: 79ae3f2c, diff: 11322 (0x00002c3a)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: aa010000, nTime: 62719102, nonce: 1cd7bc22, diff: 2361 (0x00000939)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 34020000, nTime: 6271910a, nonce: 8704ae45, diff: 3951 (0x00000f6f)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 85030000, nTime: 6271910a, nonce: a156103f, diff: 2577 (0x00000a11)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 60020000, nTime: 6271910b, nonce: be56adc7, diff: 4276 (0x000010b4)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: f8010000, nTime: 62719110, nonce: 03f22244, diff: 2364 (0x0000093c)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 5d030000, nTime: 62719117, nonce: 775baf6b, diff: 8116 (0x00001fb4)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 60020000, nTime: 62719117, nonce: 85d8a93d, diff: 11137 (0x00002b81)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: ee000000, nTime: 6271911f, nonce: 31a29d10, diff: 4404 (0x00001134)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 00000000, nTime: 6271911d, nonce: a7519b7c, diff: 7310 (0x00001c8e)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 66030000, nTime: 62719120, nonce: 974687e2, diff: 15642 (0x00003d1a)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: b3010000, nTime: 62719123, nonce: f0096df3, diff: 5912 (0x00001718)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: d7010000, nTime: 62719125, nonce: 88380dae, diff: 21166 (0x000052ae)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: d3020000, nTime: 62719126, nonce: d040a91a, diff: 43038 (0x0000a81e)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: fc020000, nTime: 6271912a, nonce: 14007b62, diff: 2391 (0x00000957)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: a8020000, nTime: 62719131, nonce: 9b163013, diff: 15298 (0x00003bc2)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 85020000, nTime: 6271913a, nonce: 9727ed64, diff: 10306 (0x00002842)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: bd020000, nTime: 6271913d, nonce: 3b37f8dd, diff: 27012 (0x00006984)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 26000000, nTime: 6271913d, nonce: 97f9bcd0, diff: 37396 (0x00009214)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: de020000, nTime: 6271914a, nonce: 59711698, diff: 3233 (0x00000ca1)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 59030000, nTime: 6271914f, nonce: f8ef7581, diff: 8041 (0x00001f69)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 7f020000, nTime: 6271914f, nonce: a48e0048, diff: 3715 (0x00000e83)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: f2030000, nTime: 627190d0, nonce: b07a84e4, diff: 26133 (0x00006615)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: f0010000, nTime: 627190d0, nonce: f9876ff5, diff: 3527 (0x00000dc7)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 55030000, nTime: 627190d3, nonce: 1ebf30e8, diff: 3097 (0x00000c19)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 99030000, nTime: 627190d6, nonce: d2b2e10b, diff: 3444 (0x00000d74)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 5f000000, nTime: 627190d5, nonce: f6471f14, diff: 3749 (0x00000ea5)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 19010000, nTime: 627190d9, nonce: faafd918, diff: 3358 (0x00000d1e)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 1d000000, nTime: 627190dd, nonce: 9db4f3bc, diff: 6479 (0x0000194f)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 3e030000, nTime: 627190e6, nonce: 8ff7df77, diff: 9469 (0x000024fd)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: eb030000, nTime: 627190ef, nonce: 99d8a480, diff: 11029 (0x00002b15)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 0b010000, nTime: 627190f0, nonce: 1678cb40, diff: 2228 (0x000008b4)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: dc020000, nTime: 627190f2, nonce: 6ee0bb5a, diff: 2261 (0x000008d5)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 35030000, nTime: 627190f2, nonce: d8f679e4, diff: 2945 (0x00000b81)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 16020000, nTime: 627190f6, nonce: 8f92eb46, diff: 2644 (0x00000a54)
+2022-05-03 16:32:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 258, extraNonce2: 5c010000, nTime: 627190f2, nonce: b104868e, diff: 2360 (0x00000938)
+2022-05-03 16:32:42 ::: PWC_RESTART ::: brd=0, pwc=0/0
+2022-05-03 16:32:42 ::: PWC_RESTART ::: brd=0, pwc=0/1
+2022-05-03 16:32:42 ::: PWC_RESTART ::: brd=0, pwc=0/2
+2022-05-03 16:32:42 ::: PWC_RESTART ::: brd=0, pwc=0/3
+2022-05-03 16:35:43 ::: MINER_START ::: Enjoy your mining!
+2022-05-03 16:35:54 ::: PWC_RESTART ::: brd=0, pwc=0/0
+2022-05-03 16:35:54 ::: PWC_RESTART ::: brd=0, pwc=0/1
+2022-05-03 16:35:55 ::: PWC_RESTART ::: brd=0, pwc=0/2
+2022-05-03 16:35:55 ::: PWC_RESTART ::: brd=0, pwc=0/3
+2022-05-03 16:38:31 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 16:38:36 ::: POOL_ERROR ::: Drop off 59 shares
+2022-05-03 16:41:25 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 16:41:30 ::: POOL_ERROR ::: Drop off 15 shares
+2022-05-03 16:44:18 ::: POOL_ERROR ::: ConnectionException: unable connect to stratum server.
+2022-05-03 16:44:23 ::: POOL_ERROR ::: Drop off 17 shares
